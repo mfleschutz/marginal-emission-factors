@@ -3,6 +3,8 @@ This directory provides updatable supplementary data to a journal paper which wi
 
 The time series were calculated in hourly resolution (`data/60min`), and were additionally converted to quarter-hourly resolution (`data/15min`).
 
+The latest version of the repository is: https://github.com/DrafProject/marginal-emission-factors
+
 ## Data description
 | Column name   | Data type | Unit            | Description     |
 | ------------- |-----------| --------------- | ----------------|
