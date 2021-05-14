@@ -1,11 +1,11 @@
+⚠ The latest version of the repository lives in the DrafProject organisation: https://github.com/DrafProject/marginal-emission-factors
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4718362.svg)](https://doi.org/10.5281/zenodo.4718362)
 
 # marginal-emission-factors
 This directory provides updatable supplementary data to the journal paper [Fleschutz et al. (2021)](https://doi.org/10.1016/j.apenergy.2021.117040).
 
 The time series were calculated in hourly resolution (`data/60min`), and were additionally converted to quarter-hourly resolution (`data/15min`).
-
-The latest version of the repository is: https://github.com/DrafProject/marginal-emission-factors
 
 ## Data description
 | Column name   | Data type | Unit            | Description     |
